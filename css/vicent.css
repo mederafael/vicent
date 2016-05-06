@@ -1,0 +1,75 @@
+body{
+    background: ghostwhite;
+}
+p:first-letter{
+    text-transform: uppercase;
+}
+
+.principal{
+
+    width: 656px;
+    margin-left: auto ;
+    margin-right: auto ;
+}
+.conteudo{
+
+    border: 0px solid;
+}
+.left{
+    float:left;
+    width: 61%;
+}
+.left-min {
+    float:left;
+    width: 40%;
+}
+.box{
+    width: 600px;
+    padding: 10px;
+    margin-bottom: 30px;
+    color: #424242;
+    font-family: "Adobe Caslon Pro", "Hoefler Text", Georgia, Garamond, Times, serif;
+    letter-spacing:0.1em;
+    text-align:center;
+    margin: 20px auto;
+    margin-top: 0!important;
+    margin-bottom: 0!important;
+    text-transform: lowercase;
+    line-height: 145%;
+    font-size: 14pt;
+    font-variant: small-caps;
+}
+p{
+    text-align: justify;
+    margin: 12px;
+    padding: 12px;
+
+
+}
+.clear { clear: both; }
+.d-img{
+
+    padding-right: 14px;
+    padding-top: 22px;
+}
+.title{
+    font-size: 35px;
+    font-style: italic;
+    font-weight: bolder;
+}
+.title2{
+    font-size: 25px;
+    font-style: italic;
+    font-weight: normal;
+}
+.padd-t-0{
+    padding-top: 0;margin-top: 0;
+}
+.font-text{
+    font-family:georgia,serif;
+    color:#381704;
+    font-size:12px;
+    font-weight:normal;
+    line-height:150%;
+    padding:0px;
+}
